@@ -1,3 +1,15 @@
+
+/* bakgrunnsbilde forside */
+.amalieskramvgs{
+  width: 100vw;
+}
+
+/* bakgrunnsbilde IM-linjen */
+.programmeringskjermbilde{
+  width: 100%;
+}
+
+
 /* Konseptutvikling bilder */
 .steinsakspapir {
     display: flex;
