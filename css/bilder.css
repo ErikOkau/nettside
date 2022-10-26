@@ -19,16 +19,19 @@
     margin: auto;
     align-items: center;
     justify-content: center;
+    border-radius: 2rem;
   }
   
 .konseptutvikling{
     width: 60%;
     margin-left: 20%;
+    border-radius: 2rem;
   }
   
 .figmabilde{
     width: 60%;
     margin-left: 20%;
+    border-radius: 2rem;
   }
 
 
@@ -36,6 +39,7 @@
   .Hjemmenettverk-oppgaven{
     width: 60%;
     margin-left: 20%;
+    border-radius: 2rem;
   }
 
 
@@ -43,27 +47,32 @@
   .volleyball{
     width: 40%;
     margin-left: 30%;
+    border-radius: 2rem;
   }
   
   .amalieaktivbilde{
     width: 40%;
     margin-left: 30%;
+    border-radius: 2rem;
   }
   
 /* Bilder index/hjem */
 .amalieskramvgs2{
     width: 60%;
     margin-left: 20%;
+    border-radius: 2rem;
 }
 
 .amalieskramforfatter{
     width: 60%;
     margin-left: 20%;
+    border-radius: 2rem;
 }
 
 /* bilder produksjon og historiefortelling */
 .bilde{
   width: 60%;
   margin-left: 20%;
+  border-radius: 2rem;
 }
 
