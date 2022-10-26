@@ -9,7 +9,7 @@ body{
 }
 
 
-/* Containers for at de er ved siden av hverandre */
+/* Containers for at de er ved siden av hverandre og sentrert*/
 .containers{
     display: flex;
     flex-direction: column;
@@ -22,7 +22,7 @@ body{
     gap: 2rem;
 }
 
-   
+/* størrelse og utseende på container */
 .container{
     width: 90vw;
     background-color:#D9D9D9;
