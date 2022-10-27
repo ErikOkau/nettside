@@ -5,40 +5,15 @@
 }
 
 
-
-  /* Tilbud bilder */
-  .volleyball{
-    width: 40%;
-    margin-left: 30%;
-    border-radius: 2rem;
-  }
-  
-  .amalieaktivbilde{
-    width: 40%;
-    margin-left: 30%;
-    border-radius: 2rem;
-  }
-  
-
-
-  
-/* Bilder index/hjem */
-.amalieskramvgs2{
-    width: 60%;
-    margin-left: 20%;
-    border-radius: 2rem;
+/* Tilbud bilder */
+.tilbud{
+  width: 40%;
+  margin-left: 30%;
+  border-radius: 2rem;
 }
 
-.amalieskramforfatter{
-    width: 60%;
-    margin-left: 20%;
-    border-radius: 2rem;
-}
 
-/* Bilder med samme kode */
-
-
-/* bilder produksjon og historiefortelling */
+/* bilder med samme størrelse */
 .bilde{
   width: 60%;
   margin-left: 20%;
@@ -46,19 +21,7 @@
 }
 
 
-/* Bilder konseptutvikling */
-.konseptutvikling{
-  width: 60%;
-  margin-left: 20%;
-  border-radius: 2rem;
-}
-
-.figmabilde{
-  width: 60%;
-  margin-left: 20%;
-  border-radius: 2rem;
-}
-
+/* bilde konseptutvikling projekter */
 .steinsakspapir {
   display: flex;
   object-fit: contain;
@@ -71,11 +34,4 @@
 }
 
 
-
-/* Teknologiforståelse bilder */
-.Hjemmenettverk-oppgaven{
-  width: 60%;
-  margin-left: 20%;
-  border-radius: 2rem;
-}
 
